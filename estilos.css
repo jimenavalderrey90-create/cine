@@ -1,0 +1,32 @@
+body {
+    background-color: #d07ff0;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 30px 20px;
+    gap: 20px;
+    background-color: rgb(250, 194, 242);
+    z-index: 1000;
+    text-decoration: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: 1px  double;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin:left;
+}
